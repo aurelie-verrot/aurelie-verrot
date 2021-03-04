@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Name is Aurelie Verrot, this is my secondary Github account.
+Find more info about me and what I work on here: https://github.com/aurelieverrot/aurelieverrot
+
 <!--
 **aurelie-verrot/aurelie-verrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
